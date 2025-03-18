@@ -57,7 +57,6 @@ This project demonstrates expertise in:
 │-- 📄 README.md (this file!)
 │-- 📂 data/ (contains dataset files)
 │-- 📂 notebooks/ (Jupyter Notebooks for analysis & model training)
-│-- 📂 models/ (trained regression models)
 │-- 📄 requirements.txt (Python dependencies)
 ```
 
